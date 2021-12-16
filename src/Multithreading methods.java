@@ -1,4 +1,4 @@
-1	
+.1	
 public void start()
 
 Starts the thread in a separate path of execution, then invokes the run() method on this Thread object.
